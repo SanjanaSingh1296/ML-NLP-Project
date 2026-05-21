@@ -1,3 +1,5 @@
+<img width="368" height="244" alt="2" src="https://github.com/user-attachments/assets/594ee121-173d-4fb2-ad7f-5bd794fb9d04" />
+<img width="327" height="115" alt="1" src="https://github.com/user-attachments/assets/b2030159-856d-4415-91ad-d328bbd27ceb" />
 # SMS Spam Detection System 📩🤖
 
 This project uses Machine Learning and Natural Language Processing (NLP) techniques to classify SMS messages as either Spam or Ham (Not Spam). The model is trained on SMS text data and performs spam detection using various ML algorithms and text preprocessing techniques.
@@ -46,44 +48,43 @@ Pie chart visualization showing the percentage distribution of spam and ham mess
 ## 3️⃣ Pairplot Analysis
 Visualization showing relationships between message features such as character count, word count, and sentence count.
 
-![Pairplot Analysis](screenshots/pairplot-analysis.png)
+![Pairplot Analysis](screenshots/3.png)
 
 ---
 
 ## 4️⃣ Correlation Heatmap
 Correlation heatmap representing relationships between numerical features extracted from SMS messages.
 
-![Correlation Heatmap](screenshots/heatmap.png)
+![Correlation Heatmap](screenshots/4.png)
 
 ---
 
 ## 5️⃣ Spam WordCloud
 WordCloud visualization showing the most frequently used words in spam messages.
 
-![Spam WordCloud](screenshots/spam-wordcloud.png)
+![Spam WordCloud](screenshots/5.png)
 
 ---
 
 ## 6️⃣ Ham WordCloud
 WordCloud visualization showing common words used in non-spam (ham) messages.
 
-![Ham WordCloud](screenshots/ham-wordcloud.png)
+![Ham WordCloud](screenshots/6.png)
 
 ---
 
 ## 7️⃣ Model Performance Comparison
 Comparison of multiple Machine Learning algorithms based on accuracy and precision scores.
 
-![Model Comparison](screenshots/model-comparison.png)
+![Model Comparison](screenshots/7.png)
 
 ---
 
 ## 8️⃣ Accuracy & Precision Results
 Final evaluation results of different ML classification models used in the project.
 
-![Accuracy Results](screenshots/accuracy-results.png)
+![Accuracy Results](screenshots/8.png)
 
----
 
 # 🎯 Project Goal
 The main objective of this project is to build an intelligent SMS filtering system capable of automatically detecting spam messages using Machine Learning and NLP techniques.
@@ -107,7 +108,4 @@ Through this project, I gained practical experience in:
 - Add real-time SMS classification
 - Create a user-friendly web interface
 
----
 
-# 👨‍💻 Author
-Sanjana Singh Sengar
