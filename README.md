@@ -32,14 +32,14 @@ This project uses Machine Learning and Natural Language Processing (NLP) techniq
 ## 1️⃣ Dataset Preview
 Displays the structure of the SMS dataset containing spam and ham messages.
 
-![Dataset Preview](screenshots/dataset-preview.png)
+![Dataset Preview]([(https://github.com/SanjanaSingh1296/ML-NLP-Project/blob/main/Screenshort/1.png?raw=true))
 
 ---
 
 ## 2️⃣ Spam vs Ham Distribution
 Pie chart visualization showing the percentage distribution of spam and ham messages in the dataset.
 
-![Spam vs Ham Distribution](screenshots/spam-ham-chart.png)
+![Spam vs Ham Distribution](screenshots/2.png)
 
 ---
 
